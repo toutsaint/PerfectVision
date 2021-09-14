@@ -498,10 +498,11 @@ ul li {
   font-size: 16px;
 }
 
+/* Se cambio el tamaño de 5rem a 7rem */
 /* The details of your blog. Defined in ghost/settings/ */
 .blog-title {
   margin: 10px 0 10px 0;
-  font-size: 5rem;
+  font-size: 7rem;
   letter-spacing: -1px;
 }
 
@@ -1034,8 +1035,9 @@ a.fn-item.active {
     margin-top: 10px;
   }
 
+  /* Se cambio el tamaño de 3rem a 4rem */
   .blog-title {
-    font-size: 3rem;
+    font-size: 4rem;
   }
 
   .blog-description {
